@@ -41,3 +41,9 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Board
+    uniqueID: 285011793
+    locked: 0
+  - name: Garden
+    uniqueID: 2230748449
+    locked: 0
